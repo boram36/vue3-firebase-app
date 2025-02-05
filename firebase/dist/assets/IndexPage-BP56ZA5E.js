@@ -1,0 +1,1 @@
+import{Q as s}from"./QPage-BvBQmXlz.js";import{o as t,i as a,q as o,c as r}from"./index-BDNlv_Je.js";const l="/assets/quasar-logo-vertical-Dh1dpsZJ.svg",_={__name:"IndexPage",setup(c){return(p,e)=>(t(),a(s,{class:"flex flex-center"},{default:o(()=>e[0]||(e[0]=[r("img",{alt:"Quasar logo",src:l,style:{width:"200px",height:"200px"}},null,-1)])),_:1}))}};export{_ as default};

@@ -1,0 +1,1 @@
+import{d as a,N as s}from"./index-BDNlv_Je.js";import{g as l}from"./error-message-RP1Uco7u.js";const g=a(async({app:e})=>{e.config.errorHandler=(o,r,n)=>{console.log("### app.config.errorHandler ###"),console.log("err",o),console.log("instance",r),console.log("info",n),s.create(l(o.code))}});export{g as default};

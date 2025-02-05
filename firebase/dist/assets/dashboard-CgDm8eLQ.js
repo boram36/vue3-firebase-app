@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,b as r,c as s}from"./index-BDNlv_Je.js";const a={setup(){return{}}};function n(c,e,d,p,i,f){return o(),r("div",null,e[0]||(e[0]=[s("div",{class:"text-h4"},"Admin/Dashboard",-1)]))}const u=t(a,[["render",n]]);export{u as default};
